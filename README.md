@@ -1,6 +1,9 @@
 # Berkeley-Machine-Learning-and-Artificial-Intelligence Course Assignment
 Practical Application Assignment 5.1: Will the Customer Accept the Coupon?
 
+Link to code: https://github.com/MelodySiska/Berkeley-Machine-Learning-and-Artificial-Intelligence/blob/main/assignment_5_1_starter/prompt.ipynb
+
+
 The goal of this project is to use visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not. 
 
 I began by reading in the coupons.csv file and investigating the dataset for missing or problematic data. There are very many missing values in the 'car' column (only 108 entries out of 12684)
